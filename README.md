@@ -2,7 +2,7 @@
 
 Article guidelines
 
-- singular focus (one command)
+- Singular focus (one command or idea)
 - ~350-500 words post edits
 
 ### Instructions
